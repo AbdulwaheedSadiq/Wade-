@@ -45,9 +45,9 @@
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="services.html">Services</a>
+                                    <li class="dropdown"><a href="#">Services</a>
                                         <ul>
-                                            <li><a href="safaris">Safaris</a></li>
+                                            <li><a href="safaris.php">Safaris</a></li>
                                             <li><a href="ser-concept-designs.html">Tours</a></li>
                                             <li><a href="ser-project-designs.html">Trips</a></li>
                                         </ul>
@@ -88,7 +88,7 @@
                                     <span class="icon-maps-and-location"></span>
                                 </div>
                                 <div class="text">
-                                    <h3>Dar es salaam, Tanzania</h3>
+                                    <h3>Arusha, Tanzania</h3>
                                     <p>Flat 201, Waziri Dello</p>
                                 </div>
                             </div>

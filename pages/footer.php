@@ -87,7 +87,7 @@
                                             <span class="icon-global"></span>
                                         </div>
                                         <div class="text">
-                                            <p>Flat 20, Waziri Dello, DarEsSalaam<br> Temeke, FV77 8WS</p>
+                                            <p>Flat 20, Waziri Dello, Arusha<br> Arusha Mjini, FV77 8WS</p>
                                         </div>
                                     </div>
                                 </div>
