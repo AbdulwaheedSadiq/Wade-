@@ -134,7 +134,7 @@
                                      <div class="text">
                                          <h3>Mountains Climbing</h3>
                                          <p>Wade specialists,
-                                           we’ve devoted endless time and energy into making our climbs the most professional, organized and responsible.</p>
+                                           we’ve devoted endless time and energy into making our climbs the most professional and organized </p>
                                      </div>
                                  </div>
                              </div>
@@ -575,7 +575,7 @@
                                        </div>
                                        <div class="location-info">
                                            <h3>Wade Adventures</h3>
-                                           <p>P. B: 222. DarEsSalaam Region<br> Kizuiani - 11223.<br> +255 717 565 248<br>waziriDello@gmail.com</p>
+                                           <p>P. B: 222. Arusha Region<br> Arusha Mjini - 11223.<br> +255 717 565 248<br>waziriDello@gmail.com</p>
                                        </div>
                                    </div>
 
@@ -586,40 +586,81 @@
                    <div class="col-xl-6 col-lg-6">
                        <div class="appointment-box wow slideInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                            <div class="title-box">
-                               <h2>For Bookings</h2>
+                               <h2>For Direct Messages</h2>
                                <span>Leave your information here and get reply from our Team in 24 hours, we are here for you.</span>
                            </div>
                            <div class="appointment">
                                <form class="appointment-form">
                                    <div class="row">
-                                       <div class="col-xl-12">
+                                       <div class="col-xl-6">
+                                         <div class="single-box">
+                                             <select class="selectpicker" data-width="100%">
+                                             <option selected="selected">Mr/Miss/Mrs/Dr</option>
+                                             <option value="Mr">Mr</option>
+                                             <option value="Mrs">Mrs</option>
+                                             <option value="Miss">Miss</option>
+                                             <option value="Dr">Dr</option>
+                                             <option value="Prof">Prof</option>
+                                         </select>
+                                         </div>
+                                       </div>
+                                       <div class="col-xl-6">
                                            <div class="single-box">
-                                               <input type="text" name="form_name" value="" placeholder="Name" required="">
+                                               <input type="text" name="form_name" value="" placeholder="First Name" required="">
                                            </div>
                                        </div>
                                    </div>
                                    <div class="row">
-                                       <div class="col-xl-12">
+                                       <div class="col-xl-6">
                                            <div class="single-box">
-                                               <input type="email" name="form_email" value="" placeholder="Email" required="">
+                                             <input type="text" name="form_name" value="" placeholder="Last Name" required="">
+                                               <!-- <input type="email" name="form_email" value="" placeholder="Email Address" required=""> -->
+                                           </div>
+                                       </div>
+                                       <div class="col-xl-6">
+                                           <div class="single-box">
+                                               <input type="email" name="form_email" value="" placeholder="Email Address" required="">
                                            </div>
                                        </div>
                                    </div>
                                    <div class="row">
-                                       <div class="col-xl-12">
+                                       <div class="col-xl-6">
                                            <div class="single-box">
-                                               <select class="selectpicker" data-width="100%">
-                                               <option selected="selected">Interested In</option>
-                                               <option>Concept Designs</option>
-                                               <option>Project Designs</option>
-                                               <option>Make Overs</option>
-                                               <option>Consulting</option>
-                                               <option>Glass & Wrought</option>
-                                               <option>Space Planning</option>
-                                           </select>
+                                             <input type="text" name="form_name" value="" placeholder="Phone number" required="">
+                                               <!-- <input type="email" name="form_email" value="" placeholder="Email Address" required=""> -->
+                                           </div>
+                                       </div>
+                                       <div class="col-xl-6">
+                                           <div class="single-box">
+                                               <input type="email" name="form_email" value="" placeholder="Country" required="">
                                            </div>
                                        </div>
                                    </div>
+                                   <!-- <div class="row">
+                                       <div class="col-xl-6">
+                                           <div class="single-box">
+                                             <input type="number" name="form_name" value="" placeholder="Number of Adults" required="">
+
+                                           </div>
+                                       </div>
+                                       <div class="col-xl-6">
+                                           <div class="single-box">
+                                               <input type="number" name="form_email" value="" placeholder="Number Of Children" required="">
+                                           </div>
+                                       </div>
+                                   </div> -->
+
+                                   <div class="row">
+                                       <div class="col-xl-12">
+                                           <div class="single-box">
+                                             <div class="field-label">Your Message</div>
+                                       <div class="field-input">
+                                           <textarea name="other-notes" placeholder="Special message about with us..."></textarea>
+                                       </div
+                                           </div>
+                                       </div>
+                                   </div>
+                                 </div>
                                    <div class="row">
                                        <div class="col-xl-12">
                                            <div class="single-box">
