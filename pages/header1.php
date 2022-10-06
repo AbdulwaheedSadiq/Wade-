@@ -45,23 +45,19 @@
 
                                         </ul>
                                     </li>
-                                    <li class="dropdown"><a href="#">Services</a>
-                                        <ul>
-                                            <li><a href="safaris.php">Safaris</a></li>
-                                            <li><a href="ser-concept-designs.html">Tours</a></li>
-                                            <li><a href="ser-project-designs.html">Trips</a></li>
-                                        </ul>
+                                    <li class=""><a href="OurServices.php">Services</a>
+
                                     </li>
-                                    <li class="dropdown"><a href="project.html">Trekking</a>
+                                    <li class="dropdown"><a href="#">Trekking</a>
                                         <ul>
-                                            <li><a href="">MT.KILIMANJAO CLIMBING</a></li>
-                                            <li><a href="">MT.MERU CLIMBING</a></li>
+                                            <li><a href="kili.php">MT.KILIMANJARO CLIMBING</a></li>
+                                            <li><a href="meru.php">MT.MERU CLIMBING</a></li>
                                         </ul>
                                     </li>
                                     <li class=""><a href="">Zanzibar</a>
 
                                     </li>
-                                    <li class=""><a href="">Trips</a>
+                                    <li class=""><a href="trip.php">Trips</a>
 
                                     </li>
                                     <li><a href="contact.html">Contact Us</a></li>

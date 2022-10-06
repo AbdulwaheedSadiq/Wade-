@@ -32,13 +32,13 @@
                      <div class="inner-content-box clearfix">
                          <div class="title-s2 text-center">
                              <span>Our Services</span>
-                             <h1>Safaris</h1>
+                             <h1>Safaris & Tours</h1>
                          </div>
                          <div class="breadcrumb-menu float-left">
                              <ul class="clearfix">
                                  <li><a href="index-2.html">Home</a></li>
                                  <li><a href="services.html">Services</a></li>
-                                 <li class="active">Safaris</li>
+                                 <li class="active">Safaris & Tours</li>
                              </ul>
                          </div>
                      </div>
@@ -80,7 +80,7 @@
                     </ul> -->
                     <div class="row filter-layout masonary-layout">
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item contem ret">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item contem ret">
                             <div class="single-project-style5">
                                 <div class="img-holder">
                                     <div class="inner">
@@ -103,7 +103,7 @@
                         </div>
                         <!--End single project item-->
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod trad">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod trad">
                             <div class="single-project-style5">
                               <div class="img-holder">
                                   <div class="inner">
@@ -126,7 +126,7 @@
                         </div>
                         <!--End single project item-->
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                             <div class="single-project-style5">
                               <div class="img-holder">
                                   <div class="inner">
@@ -150,7 +150,7 @@
                         <!--End single project item-->
 
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod trad">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod trad">
                             <div class="single-project-style5">
                               <div class="img-holder">
                                   <div class="inner">
@@ -173,7 +173,7 @@
                         </div>
                         <!--End single project item-->
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                             <div class="single-project-style5">
                               <div class="img-holder">
                                   <div class="inner">
@@ -196,7 +196,7 @@
                         </div>
                         <!--End single project item-->
                         <!--Start single project item-->
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item contem ret">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item contem ret">
                             <div class="single-project-style5">
                                 <div class="img-holder">
                                   <div class="img-holder">
@@ -319,7 +319,7 @@
                           </div>
                         </div>
 
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                           <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                               <div class="inner">
                                   <div class="img-box">
@@ -425,7 +425,7 @@
                               </div>
                             </div>
 
-                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                               <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                   <div class="inner">
                                       <div class="img-box">
@@ -531,7 +531,7 @@
                                   </div>
                                 </div>
 
-                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                   <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                       <div class="inner">
                                           <div class="img-box">
@@ -639,7 +639,7 @@
                                       </div>
                                     </div>
 
-                                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                    <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                       <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                           <div class="inner">
                                               <div class="img-box">
@@ -678,7 +678,7 @@
 
                                     <div class="row filter-layout masonary-layout">
                                         <!--Start single project item-->
-                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                           <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                               <div class="inner">
                                                   <div class="img-box">
@@ -745,7 +745,7 @@
                                           </div>
                                         </div>
 
-                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                        <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                           <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                               <div class="inner">
                                                   <div class="img-box">
@@ -786,7 +786,7 @@
 
                                         <div class="row filter-layout masonary-layout">
                                             <!--Start single project item-->
-                                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                               <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                   <div class="inner">
                                                       <div class="img-box">
@@ -855,7 +855,7 @@
                                             <!--End single project item-->
 
                                             <!--Start single project item-->
-                                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                               <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                   <div class="inner">
                                                       <div class="img-box">
@@ -899,7 +899,7 @@
 
                                           <div class="row filter-layout masonary-layout">
                                               <!--Start single project item-->
-                                              <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                              <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                 <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                     <div class="inner">
                                                         <div class="img-box">
@@ -968,7 +968,7 @@
                                               <!--End single project item-->
 
                                               <!--Start single project item-->
-                                              <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                              <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                 <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                     <div class="inner">
                                                         <div class="img-box">
@@ -1013,7 +1013,7 @@
 
                                             <div class="row filter-layout masonary-layout">
                                                 <!--Start single project item-->
-                                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                   <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                       <div class="inner">
                                                           <div class="img-box">
@@ -1047,7 +1047,7 @@
                                                 </div>
                                                 <!--End single project item-->
                                                 <!--Start single project item-->
-                                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                   <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                       <div class="inner">
                                                           <div class="img-box">
@@ -1082,7 +1082,7 @@
                                                 <!--End single project item-->
 
                                                 <!--Start single project item-->
-                                                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                   <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                       <div class="inner">
                                                           <div class="img-box">
@@ -1127,7 +1127,7 @@
 
                                               <div class="row filter-layout masonary-layout">
                                                   <!--Start single project item-->
-                                                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                     <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                         <div class="inner">
                                                             <div class="img-box">
@@ -1161,7 +1161,7 @@
                                                   </div>
                                                   <!--End single project item-->
                                                   <!--Start single project item-->
-                                                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                     <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                         <div class="inner">
                                                             <div class="img-box">
@@ -1196,7 +1196,7 @@
                                                   <!--End single project item-->
 
                                                   <!--Start single project item-->
-                                                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 filter-item mod contem">
+                                                  <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 filter-item mod contem">
                                                     <div class="single-pricing-box wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                                                         <div class="inner">
                                                             <div class="img-box">
