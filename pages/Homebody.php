@@ -117,7 +117,7 @@
                          <div class="single-working-box wow fadeInDown" data-wow-delay="0ms">
                              <div class="img-holder">
                                  <div class="inner">
-                                     <img src="images/resources/Kilimanjaro1.jpg" alt="Awesome Image">
+                                     <img src="images/resources/Kilimanjaro1.JPG" alt="Awesome Image">
                                      <div class="overlay-style-one"></div>
                                  </div>
                              </div>
