@@ -36,7 +36,7 @@
                             </div>
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="../wade/">Home</a>
+                                    <li class="current"><a href="../">Home</a>
                                     </li>
                                     <li class="dropdown"><a href="aboutUs.php">About Us</a>
                                         <ul>
