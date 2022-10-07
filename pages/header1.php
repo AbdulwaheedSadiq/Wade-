@@ -54,13 +54,13 @@
                                             <li><a href="meru.php">MT.MERU CLIMBING</a></li>
                                         </ul>
                                     </li>
-                                    <li class=""><a href="">Zanzibar</a>
+                                    <li class=""><a href="zanzibar.php">Zanzibar</a>
 
                                     </li>
                                     <li class=""><a href="trip.php">Trips</a>
 
                                     </li>
-                                    <li><a href="contact.html">Contact Us</a></li>
+                                    <li><a href="#">Staff Mail</a></li>
                                 </ul>
                             </div>
                         </nav>
